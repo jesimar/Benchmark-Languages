@@ -15,6 +15,7 @@ Projeto que executa uma comparação de diferentes linguangens de programação:
 ## Resultados
 
 |Aplicação | Linguagem | Tempo (seg) | Tempo (seg) | Tempo (seg) | Relação Tempo Ling/C |
+|----------|-----------|-------------|-------------|-------------|----------------------|
 | Primo    | C         | 14.48       | 0.15        | 0.009       | 1                    |
 | Primo    | Java      | 13.70       | 0.23        | 0.080       | 1					|
 | Primo    | Python    | 245.58      | 2.21        | 0.047       | 15                   |
